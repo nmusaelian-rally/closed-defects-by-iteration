@@ -73,7 +73,6 @@ Ext.define('CustomApp', {
                                 _ref: defect.get("_ref"),
                             };
                             
-                            var tasks = defect.getCollection('Tasks');
                             defects.push(d);
                             this._createGrid(defects);
                 }, this);
