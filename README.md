@@ -1,8 +1,9 @@
-TCofUS
+Closed defects by iteration
 =========================
 
 ## Overview
 
+A grid of closed defects by iteration filtered by Priority: High Attention or Resolve Immediately
 
 ## License
 
